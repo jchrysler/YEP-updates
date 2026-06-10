@@ -7,6 +7,26 @@
     <description>Signed YEP app updates.</description>
     <language>en</language>
     <item>
+      <title>Version 0.1.75 - Mid-sentence input context</title>
+      <pubDate>Wed, 10 Jun 2026 13:45:24 +0000</pubDate>
+      <sparkle:version>1781098791</sparkle:version>
+      <sparkle:shortVersionString>0.1.75</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.2</sparkle:minimumSystemVersion>
+      <enclosure
+          url="https://github.com/jchrysler/YEP-updates/releases/download/v0.1.75/YEP.dmg"
+          length="23156981"
+          type="application/x-apple-diskimage"
+          sparkle:edSignature="Meoae7Dnn0Kk5+LHsItMS0bbdGhuolcjUVaZQsGr5MMBGRNbOk8ZdcN7250pvc+Sp9jQTl9KbdGLrg5tyb/1Cg==" />
+      <description><![CDATA[
+        <h3>Better mid-sentence dictation.</h3>
+        <ul>
+          <li>Adds a Continue mid-sentence cleanup option that reads a short local prefix from the focused text field.</li>
+          <li>Uses that local input context to avoid unnecessary capitalization when dictating into the middle of a sentence.</li>
+          <li>Updates privacy wording to describe focused-input context without implying broad screen reading.</li>
+        </ul>
+      ]]></description>
+    </item>
+    <item>
       <title>Version 0.1.74 - Correction and update feed polish</title>
       <pubDate>Wed, 10 Jun 2026 13:20:02 +0000</pubDate>
       <sparkle:version>1781097076</sparkle:version>
