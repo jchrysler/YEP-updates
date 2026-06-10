@@ -7,6 +7,26 @@
     <description>Signed YEP app updates.</description>
     <language>en</language>
     <item>
+      <title>Version 0.1.76 - Time and date cleanup</title>
+      <pubDate>Wed, 10 Jun 2026 17:01:53 +0000</pubDate>
+      <sparkle:version>1781110588</sparkle:version>
+      <sparkle:shortVersionString>0.1.76</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.2</sparkle:minimumSystemVersion>
+      <enclosure
+          url="https://github.com/jchrysler/YEP-updates/releases/download/v0.1.76/YEP.dmg"
+          length="23155770"
+          type="application/x-apple-diskimage"
+          sparkle:edSignature="1pKU/57FZns0ViWEZQuJ3Mly527l0M/ipASm6EJ6fibjfPhqJ9O7krKUWwu6fmm96VM2h48ABxwFymeQczXXAg==" />
+      <description><![CDATA[
+        <h3>Cleaner spoken times and dates.</h3>
+        <ul>
+          <li>Turns clear clock-time phrases like "let's meet at two thirty" into "Let's meet at 2:30".</li>
+          <li>Supports AM/PM variants such as "two oh five p m".</li>
+          <li>Adds conservative month/day/year cleanup, while avoiding generic phrases like "I may go tomorrow".</li>
+        </ul>
+      ]]></description>
+    </item>
+    <item>
       <title>Version 0.1.75 - Mid-sentence input context</title>
       <pubDate>Wed, 10 Jun 2026 13:45:24 +0000</pubDate>
       <sparkle:version>1781098791</sparkle:version>
