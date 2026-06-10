@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0"
+     xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle">
+  <channel>
+    <title>YEP Updates</title>
+    <link>https://raw.githubusercontent.com/jchrysler/YEP-updates/main/appcast.xml</link>
+    <description>Signed YEP app updates.</description>
+    <language>en</language>
+    <item>
+      <title>Version 0.1.74 - Correction and update feed polish</title>
+      <pubDate>Wed, 10 Jun 2026 13:20:02 +0000</pubDate>
+      <sparkle:version>1781097076</sparkle:version>
+      <sparkle:shortVersionString>0.1.74</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.2</sparkle:minimumSystemVersion>
+      <enclosure
+          url="https://github.com/jchrysler/YEP-updates/releases/download/v0.1.74/YEP.dmg"
+          length="23150033"
+          type="application/x-apple-diskimage"
+          sparkle:edSignature="ziOK4Pcdy+H2iv12jFoCvW/IAuac0ofvX2kfn+XIAClR2p3luRgbkPkQQJTAO/HqMRStDvEKVMRs/miYg9IkAA==" />
+      <description><![CDATA[
+        <h3>Cleaner course corrections and first hosted update feed.</h3>
+        <ul>
+          <li>Improves local self-correction cleanup for phrases like "let's meet at 330, no I mean 230".</li>
+          <li>Preserves normal uses of words like "actually" when they are not corrections.</li>
+          <li>Points Sparkle at the hosted update feed so future builds can update remotely.</li>
+        </ul>
+      ]]></description>
+    </item>
+  </channel>
+</rss>
