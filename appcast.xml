@@ -7,6 +7,28 @@
     <description>Signed YEP app updates.</description>
     <language>en</language>
     <item>
+      <title>Version 0.1.77 - Smarter formatting and reachable updates</title>
+      <pubDate>Sun, 14 Jun 2026 15:32:32 +0000</pubDate>
+      <sparkle:version>1781450663</sparkle:version>
+      <sparkle:shortVersionString>0.1.77</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.2</sparkle:minimumSystemVersion>
+      <enclosure
+          url="https://github.com/jchrysler/YEP-updates/releases/download/v0.1.77/YEP.dmg"
+          length="23167406"
+          type="application/x-apple-diskimage"
+          sparkle:edSignature="/BXYKzXkNCaplaosqospP5OE0WOMmtn1dL2kJgncgwJE64hQ03QiooX1+FeKSlScS6UBilnmvwSe8waBcnSdCw==" />
+      <description><![CDATA[
+        <h3>Sharper formatting and easier updates.</h3>
+        <ul>
+          <li>Paragraph breaks adapt to your speaking rhythm instead of a fixed pause.</li>
+          <li>Recognizes more list lead-ins like "here are three things" and "a couple of things", and lists up to ten items.</li>
+          <li>Formats currency ($5, $5 million) and groups phone numbers (555-123-4567).</li>
+          <li>Optional on-device cleanup uses pause cues and the text around your cursor, on a faster Gemma 3 model.</li>
+          <li>"Check for Updates" is now in the app menu and Settings, not just the menu-bar icon.</li>
+        </ul>
+      ]]></description>
+    </item>
+    <item>
       <title>Version 0.1.76 - Time and date cleanup</title>
       <pubDate>Wed, 10 Jun 2026 17:01:53 +0000</pubDate>
       <sparkle:version>1781110588</sparkle:version>
