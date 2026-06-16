@@ -7,6 +7,24 @@
     <description>Signed YEP app updates.</description>
     <language>en</language>
     <item>
+      <title>Version 0.1.78 - No more audio ducking</title>
+      <pubDate>Tue, 16 Jun 2026 22:04:18 +0000</pubDate>
+      <sparkle:version>1781581625</sparkle:version>
+      <sparkle:shortVersionString>0.1.78</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.2</sparkle:minimumSystemVersion>
+      <enclosure
+          url="https://github.com/jchrysler/YEP-updates/releases/download/v0.1.78/YEP.dmg"
+          length="23167144"
+          type="application/x-apple-diskimage"
+          sparkle:edSignature="SlwOM6MTehvgXQ0sBrhNPiR8QqtrfOT7m0biA+x0nHvhAN8mnrKYacjFkr0HsBzU1arWFOXi1l3irm237fnlDg==" />
+      <description><![CDATA[
+        <h3>Other audio stays at full volume.</h3>
+        <ul>
+          <li>YEP no longer ducks your music, calls, or video while the microphone is live. Dictation keeps echo cancellation and automatic gain.</li>
+        </ul>
+      ]]></description>
+    </item>
+    <item>
       <title>Version 0.1.77 - Smarter formatting and reachable updates</title>
       <pubDate>Sun, 14 Jun 2026 15:32:32 +0000</pubDate>
       <sparkle:version>1781450663</sparkle:version>
