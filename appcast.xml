@@ -7,6 +7,24 @@
     <description>Signed YEP app updates.</description>
     <language>en</language>
     <item>
+      <title>Version 0.1.79 - Microphone left clean for other apps</title>
+      <pubDate>Thu, 18 Jun 2026 21:40:04 +0000</pubDate>
+      <sparkle:version>1781818547</sparkle:version>
+      <sparkle:shortVersionString>0.1.79</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.2</sparkle:minimumSystemVersion>
+      <enclosure
+          url="https://github.com/jchrysler/YEP-updates/releases/download/v0.1.79/YEP.dmg"
+          length="23166826"
+          type="application/x-apple-diskimage"
+          sparkle:edSignature="PEksJKdeM2TF/fL93G9+L78BkaSJ5u99R6FtQfVHyn7dmrtuZsRJiveG9smxtmUA4ilekJ59csLcu+BG0vXoCg==" />
+      <description><![CDATA[
+        <h3>Your voice stays full in other apps.</h3>
+        <ul>
+          <li>YEP no longer routes the system microphone through voice processing, so calls and recordings sound normal while YEP is running. Builds on 0.1.78's system-audio ducking fix.</li>
+        </ul>
+      ]]></description>
+    </item>
+    <item>
       <title>Version 0.1.78 - No more audio ducking</title>
       <pubDate>Tue, 16 Jun 2026 22:04:18 +0000</pubDate>
       <sparkle:version>1781581625</sparkle:version>
