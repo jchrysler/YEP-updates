@@ -7,6 +7,24 @@
     <description>Signed YEP app updates.</description>
     <language>en</language>
     <item>
+      <title>Version 0.1.80 - No more mid-sentence line breaks</title>
+      <pubDate>Wed, 24 Jun 2026 14:24:57 +0000</pubDate>
+      <sparkle:version>1782138118</sparkle:version>
+      <sparkle:shortVersionString>0.1.80</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.2</sparkle:minimumSystemVersion>
+      <enclosure
+          url="https://github.com/jchrysler/YEP-updates/releases/download/v0.1.80/YEP.dmg"
+          length="23160867"
+          type="application/x-apple-diskimage"
+          sparkle:edSignature="rFIgT4fMDguQukRnqbW3IxLSQ7zV99xDx7n+PpiSh7PCofh7EdKEkB7a8P43sqg5fpfIHp2mT51hKK4AHcAaCw==" />
+      <description><![CDATA[
+        <h3>Cleaner paragraphs.</h3>
+        <ul>
+          <li>A thinking pause inside a sentence no longer becomes a paragraph break. Breaks happen only between complete sentences separated by a clear pause.</li>
+        </ul>
+      ]]></description>
+    </item>
+    <item>
       <title>Version 0.1.79 - Microphone left clean for other apps</title>
       <pubDate>Thu, 18 Jun 2026 21:40:04 +0000</pubDate>
       <sparkle:version>1781818547</sparkle:version>
