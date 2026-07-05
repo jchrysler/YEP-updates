@@ -7,6 +7,25 @@
     <description>Signed YEP app updates.</description>
     <language>en</language>
     <item>
+      <title>Version 0.1.81 - Memory fix</title>
+      <pubDate>Sun, 05 Jul 2026 00:11:04 +0000</pubDate>
+      <sparkle:version>1783209250</sparkle:version>
+      <sparkle:shortVersionString>0.1.81</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.2</sparkle:minimumSystemVersion>
+      <enclosure
+          url="https://github.com/jchrysler/YEP-updates/releases/download/v0.1.81/YEP.dmg"
+          length="23163740"
+          type="application/x-apple-diskimage"
+          sparkle:edSignature="AkN+dLwRunPQP/oQWo3t2HBwrhS2YBHSIYrWuD757OmJRMnrpddYAAIuZbhNNNR0bEuNRmdB4RQJlio1URWkDw==" />
+      <description><![CDATA[
+        <h3>Memory stays flat.</h3>
+        <ul>
+          <li>Fixes unbounded memory growth while the optional LLM cleanup model is loaded (previously could reach tens of GB over a day of use).</li>
+          <li>LLM cleanup generations now stop correctly and format deterministically.</li>
+        </ul>
+      ]]></description>
+    </item>
+    <item>
       <title>Version 0.1.80 - No more mid-sentence line breaks</title>
       <pubDate>Wed, 24 Jun 2026 14:24:57 +0000</pubDate>
       <sparkle:version>1782138118</sparkle:version>
