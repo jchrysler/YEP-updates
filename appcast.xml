@@ -7,6 +7,26 @@
     <description>Signed YEP app updates.</description>
     <language>en</language>
     <item>
+      <title>Version 0.1.83 - Instant cleanup and the Speed/Polish dial</title>
+      <pubDate>Mon, 06 Jul 2026 16:57:05 +0000</pubDate>
+      <sparkle:version>1783356758</sparkle:version>
+      <sparkle:shortVersionString>0.1.83</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.2</sparkle:minimumSystemVersion>
+      <enclosure
+          url="https://github.com/jchrysler/YEP-updates/releases/download/v0.1.83/YEP.dmg"
+          length="23197655"
+          type="application/x-apple-diskimage"
+          sparkle:edSignature="UVHvqmky1H15ECDhoaO3JEw9ZRENfEWBLV0N5+0Xyb6fVCFuYlCOuaMO1BMH2U7+AX8yk4v/3tt1913BV9A2DA==" />
+      <description><![CDATA[
+        <h3>Instant-feeling cleanup and a Speed/Polish dial.</h3>
+        <ul>
+          <li>AI cleanup now finishes in about a third of a second — it prepares while you speak.</li>
+          <li>New in Settings: Speed (instant paste) or Polish (AI formatting) per app type.</li>
+          <li>If Accessibility isn't granted, your text stays on the clipboard with clear instructions instead of disappearing.</li>
+        </ul>
+      ]]></description>
+    </item>
+    <item>
       <title>Version 0.1.82 - Smarter cleanup</title>
       <pubDate>Mon, 06 Jul 2026 15:23:10 +0000</pubDate>
       <sparkle:version>1783350999</sparkle:version>
