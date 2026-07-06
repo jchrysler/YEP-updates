@@ -7,6 +7,25 @@
     <description>Signed YEP app updates.</description>
     <language>en</language>
     <item>
+      <title>Version 0.1.84 - List formatting fixes</title>
+      <pubDate>Mon, 06 Jul 2026 23:57:37 +0000</pubDate>
+      <sparkle:version>1783365311</sparkle:version>
+      <sparkle:shortVersionString>0.1.84</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.2</sparkle:minimumSystemVersion>
+      <enclosure
+          url="https://github.com/jchrysler/YEP-updates/releases/download/v0.1.84/YEP.dmg"
+          length="23192861"
+          type="application/x-apple-diskimage"
+          sparkle:edSignature="9dRygk3APMsT93z4JmeoByiLHAk02OE5iEu/zCnmGQD9ynDI2IFbYX7ymUw3y+QKIY9XzY2Q+JBHrejs+6LPDQ==" />
+      <description><![CDATA[
+        <h3>List formatting fixes from field testing.</h3>
+        <ul>
+          <li>A number word inside a list item no longer splits the item or renumbers the list.</li>
+          <li>List lead-ins no longer end with doubled punctuation.</li>
+        </ul>
+      ]]></description>
+    </item>
+    <item>
       <title>Version 0.1.83 - Instant cleanup and the Speed/Polish dial</title>
       <pubDate>Mon, 06 Jul 2026 16:57:05 +0000</pubDate>
       <sparkle:version>1783356758</sparkle:version>
