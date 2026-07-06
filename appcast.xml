@@ -7,6 +7,27 @@
     <description>Signed YEP app updates.</description>
     <language>en</language>
     <item>
+      <title>Version 0.1.82 - Smarter cleanup</title>
+      <pubDate>Mon, 06 Jul 2026 15:23:10 +0000</pubDate>
+      <sparkle:version>1783350999</sparkle:version>
+      <sparkle:shortVersionString>0.1.82</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.2</sparkle:minimumSystemVersion>
+      <enclosure
+          url="https://github.com/jchrysler/YEP-updates/releases/download/v0.1.82/YEP.dmg"
+          length="23172201"
+          type="application/x-apple-diskimage"
+          sparkle:edSignature="IgVHHL0foSU0/IMUh94jNPrUddUedNhWgEkXgAlDg7xQew1M/zlMWzu9yi1Ej/WB4Wa1GDEkyiqAD0Kqkhg7Bw==" />
+      <description><![CDATA[
+        <h3>Smarter, faster dictation cleanup.</h3>
+        <ul>
+          <li>On-device cleanup finishes in about a second and formats consistently.</li>
+          <li>The model now knows whether you're dictating into chat, email, or an AI prompt.</li>
+          <li>Spoken times with teen minutes ("eleven fifteen") now format correctly.</li>
+          <li>Tip: set the cleanup timeout to 2.0s in Settings for best results.</li>
+        </ul>
+      ]]></description>
+    </item>
+    <item>
       <title>Version 0.1.81 - Memory fix</title>
       <pubDate>Sun, 05 Jul 2026 00:11:04 +0000</pubDate>
       <sparkle:version>1783209250</sparkle:version>
