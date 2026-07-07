@@ -7,6 +7,25 @@
     <description>Signed YEP app updates.</description>
     <language>en</language>
     <item>
+      <title>Version 0.1.85 - Smarter list detection</title>
+      <pubDate>Tue, 07 Jul 2026 00:47:50 +0000</pubDate>
+      <sparkle:version>1783382631</sparkle:version>
+      <sparkle:shortVersionString>0.1.85</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.2</sparkle:minimumSystemVersion>
+      <enclosure
+          url="https://github.com/jchrysler/YEP-updates/releases/download/v0.1.85/YEP.dmg"
+          length="23193970"
+          type="application/x-apple-diskimage"
+          sparkle:edSignature="fVPeEUmHwR5FkH/YybNo9DtPDjdXDj1YbzrXXMJiqRo3U2HRvsNi0/AKeGcrnaT5VGfcAmjA9mH/94TzjF1nDQ==" />
+      <description><![CDATA[
+        <h3>Smarter list detection.</h3>
+        <ul>
+          <li>Number words inside a list item no longer split it into extra items.</li>
+          <li>Unannounced spoken lists stay as clean prose; announce one ("three points: one...") for numbered formatting.</li>
+        </ul>
+      ]]></description>
+    </item>
+    <item>
       <title>Version 0.1.84 - List formatting fixes</title>
       <pubDate>Mon, 06 Jul 2026 23:57:37 +0000</pubDate>
       <sparkle:version>1783365311</sparkle:version>
