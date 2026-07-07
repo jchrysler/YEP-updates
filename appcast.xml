@@ -7,6 +7,24 @@
     <description>Signed YEP app updates.</description>
     <language>en</language>
     <item>
+      <title>Version 0.1.87 - Ordinal list fix</title>
+      <pubDate>Tue, 07 Jul 2026 14:10:05 +0000</pubDate>
+      <sparkle:version>1783432832</sparkle:version>
+      <sparkle:shortVersionString>0.1.87</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.2</sparkle:minimumSystemVersion>
+      <enclosure
+          url="https://github.com/jchrysler/YEP-updates/releases/download/v0.1.87/YEP.dmg"
+          length="24202555"
+          type="application/x-apple-diskimage"
+          sparkle:edSignature="RRsQ+Wr0NO3ttwUGWG/OibvMDN7opIVm4wgRBXPjSyFv3JDuOS23RU5Szw1ZTMGl5OfVJIzpxfq5ZlLa2FN0Dg==" />
+      <description><![CDATA[
+        <h3>List fix.</h3>
+        <ul>
+          <li>Spoken "first... second... third..." lists format as numbered lists again.</li>
+        </ul>
+      ]]></description>
+    </item>
+    <item>
       <title>Version 0.1.86 - New cleanup model (Gemma 4)</title>
       <pubDate>Tue, 07 Jul 2026 03:36:08 +0000</pubDate>
       <sparkle:version>1783394649</sparkle:version>
