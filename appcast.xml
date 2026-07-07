@@ -7,6 +7,25 @@
     <description>Signed YEP app updates.</description>
     <language>en</language>
     <item>
+      <title>Version 0.1.88 - Smarter list detection</title>
+      <pubDate>Tue, 07 Jul 2026 21:24:29 +0000</pubDate>
+      <sparkle:version>1783453624</sparkle:version>
+      <sparkle:shortVersionString>0.1.88</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.2</sparkle:minimumSystemVersion>
+      <enclosure
+          url="https://github.com/jchrysler/YEP-updates/releases/download/v0.1.88/YEP.dmg"
+          length="24203409"
+          type="application/x-apple-diskimage"
+          sparkle:edSignature="oPOru1l7RXUIQke95EslBcff8hJRx7A/ihc2qKzb0IqGNG39KWBjcE/REKyC5NMt5ObAUQCzBlI1VvxQlUbUBw==" />
+      <description><![CDATA[
+        <h3>Smarter list detection, any way you count.</h3>
+        <ul>
+          <li>Spoken lists format correctly with "first, second, third" or "one, two, three" — announced or not.</li>
+          <li>Counting words inside a sentence still stay as prose.</li>
+        </ul>
+      ]]></description>
+    </item>
+    <item>
       <title>Version 0.1.87 - Ordinal list fix</title>
       <pubDate>Tue, 07 Jul 2026 14:10:05 +0000</pubDate>
       <sparkle:version>1783432832</sparkle:version>
