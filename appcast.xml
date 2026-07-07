@@ -7,6 +7,25 @@
     <description>Signed YEP app updates.</description>
     <language>en</language>
     <item>
+      <title>Version 0.1.86 - New cleanup model (Gemma 4)</title>
+      <pubDate>Tue, 07 Jul 2026 03:36:08 +0000</pubDate>
+      <sparkle:version>1783394649</sparkle:version>
+      <sparkle:shortVersionString>0.1.86</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.2</sparkle:minimumSystemVersion>
+      <enclosure
+          url="https://github.com/jchrysler/YEP-updates/releases/download/v0.1.86/YEP.dmg"
+          length="24202445"
+          type="application/x-apple-diskimage"
+          sparkle:edSignature="l0xrdopR+cvsz0xHPakdPnmlESwRkfZVbs/an8TYPlKM3610ouUZyR7TZYvnJgWINVDZGaLfMSbNRNwJj3YRAg==" />
+      <description><![CDATA[
+        <h3>New cleanup model: Gemma 4.</h3>
+        <ul>
+          <li>AI cleanup is now a generation newer and faster — most cleanups finish in about 0.2 seconds.</li>
+          <li>One-time ~3.5 GB model download on first use after updating; dictation works normally while it downloads.</li>
+        </ul>
+      ]]></description>
+    </item>
+    <item>
       <title>Version 0.1.85 - Smarter list detection</title>
       <pubDate>Tue, 07 Jul 2026 00:47:50 +0000</pubDate>
       <sparkle:version>1783382631</sparkle:version>
