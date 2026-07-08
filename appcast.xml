@@ -7,6 +7,25 @@
     <description>Signed YEP app updates.</description>
     <language>en</language>
     <item>
+      <title>Version 0.1.89 - Automatic model choice and seeded vocabulary</title>
+      <pubDate>Wed, 08 Jul 2026 19:28:32 +0000</pubDate>
+      <sparkle:version>1783536327</sparkle:version>
+      <sparkle:shortVersionString>0.1.89</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.2</sparkle:minimumSystemVersion>
+      <enclosure
+          url="https://github.com/jchrysler/YEP-updates/releases/download/v0.1.89/YEP.dmg"
+          length="24214386"
+          type="application/x-apple-diskimage"
+          sparkle:edSignature="uv69u5N/ZlKfHeqHZoiDUiBrSK2EV1b9MQ9qQA4fBmmRCJn1+9RatlVTBalW7g/pdWATYDZ2fzJCiHYOD1awAA==" />
+      <description><![CDATA[
+        <h3>Ready for more Macs.</h3>
+        <ul>
+          <li>YEP picks its AI cleanup model automatically for your machine's memory; Settings shows which one you got.</li>
+          <li>Vocabulary comes pre-loaded with Yahoo and developer terms; your own edits are untouched.</li>
+        </ul>
+      ]]></description>
+    </item>
+    <item>
       <title>Version 0.1.88 - Smarter list detection</title>
       <pubDate>Tue, 07 Jul 2026 21:24:29 +0000</pubDate>
       <sparkle:version>1783453624</sparkle:version>
