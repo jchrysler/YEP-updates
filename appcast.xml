@@ -7,6 +7,25 @@
     <description>Signed YEP app updates.</description>
     <language>en</language>
     <item>
+      <title>Version 0.1.93 - Guided Holler annotations</title>
+      <pubDate>Sun, 12 Jul 2026 18:13:29 +0000</pubDate>
+      <sparkle:version>1783879613</sparkle:version>
+      <sparkle:shortVersionString>0.1.93</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.2</sparkle:minimumSystemVersion>
+      <enclosure
+          url="https://github.com/jchrysler/YEP-updates/releases/download/v0.1.93/YEP.dmg"
+          length="24827690"
+          type="application/x-apple-diskimage"
+          sparkle:edSignature="O9HoEqOYO6Mn+d1mdK8O/zzTMlalwxEGWNwL7t+0COImz95q2kHE5g6Z3qkVpyBBxuJDHiOHu+zmQtHyo1aIBQ==" />
+      <description><![CDATA[
+        <h3>A clearer first annotation.</h3>
+        <ul>
+          <li>The first three Holler sessions now guide you through selecting an area, placing a comment, and moving it into position.</li>
+          <li>An info icon beside Copy Markdown for Agent explains what it copies and how to use it with a coding agent.</li>
+        </ul>
+      ]]></description>
+    </item>
+    <item>
       <title>Version 0.1.92 - Zoomable Holler canvas and image annotation</title>
       <pubDate>Sun, 12 Jul 2026 14:33:27 +0000</pubDate>
       <sparkle:version>1783866316</sparkle:version>
