@@ -7,6 +7,25 @@
     <description>Signed YEP app updates.</description>
     <language>en</language>
     <item>
+      <title>Version 0.1.94 - Open images from Finder</title>
+      <pubDate>Sun, 12 Jul 2026 18:46:54 +0000</pubDate>
+      <sparkle:version>1783881686</sparkle:version>
+      <sparkle:shortVersionString>0.1.94</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.2</sparkle:minimumSystemVersion>
+      <enclosure
+          url="https://github.com/jchrysler/YEP-updates/releases/download/v0.1.94/YEP.dmg"
+          length="24827830"
+          type="application/x-apple-diskimage"
+          sparkle:edSignature="Cz3SB9jSH6lUZ+G07uJMP8i4fDOstXFtakK+gRHBYas0uFnKEn6Ow/6Sc/sIY/9MAC6G+b/2R4kGEOw0CdpqCA==" />
+      <description><![CDATA[
+        <h3>Send images straight to Holler.</h3>
+        <ul>
+          <li>YEP now appears in Finder's Open With menu for PNG, JPEG, HEIC, TIFF, BMP, and GIF images.</li>
+          <li>Opening an image with YEP sends it directly into Holler for annotation.</li>
+        </ul>
+      ]]></description>
+    </item>
+    <item>
       <title>Version 0.1.93 - Guided Holler annotations</title>
       <pubDate>Sun, 12 Jul 2026 18:13:29 +0000</pubDate>
       <sparkle:version>1783879613</sparkle:version>
