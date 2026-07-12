@@ -7,6 +7,28 @@
     <description>Signed YEP app updates.</description>
     <language>en</language>
     <item>
+      <title>Version 0.1.91 - Meet Holler: visual feedback for teammates and coding agents</title>
+      <pubDate>Sun, 12 Jul 2026 01:45:38 +0000</pubDate>
+      <sparkle:version>1783816416</sparkle:version>
+      <sparkle:shortVersionString>0.1.91</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.2</sparkle:minimumSystemVersion>
+      <enclosure
+          url="https://github.com/jchrysler/YEP-updates/releases/download/v0.1.91/YEP.dmg"
+          length="24782402"
+          type="application/x-apple-diskimage"
+          sparkle:edSignature="RgM6yomowWytk5gqlhhduX2Bwt6MKqU/Wi+0D8tdVQwa+p4cyIUum+CiwKdoQ16n4H4fTcDvlnxKQ+TYAcbQAA==" />
+      <description><![CDATA[
+        <h3>In addition to voice transcription, there's now Holler.</h3>
+        <ul>
+          <li>Press &#8984;&#8679;9 to capture any part of your screen, draw boxes on what needs changing, and attach numbered comments.</li>
+          <li>Copy the annotated image to share with teammates, or the markdown transcript (exact text and pixel coordinates) for coding agents like Claude and Cursor.</li>
+          <li>Dictate straight into comments with your usual YEP hotkey.</li>
+          <li>Every capture is saved automatically in the new Holler tab.</li>
+          <li>Holler needs Screen Recording permission; a one-time welcome window walks you through it. Nothing leaves your Mac.</li>
+        </ul>
+      ]]></description>
+    </item>
+    <item>
       <title>Version 0.1.89 - Automatic model choice and seeded vocabulary</title>
       <pubDate>Wed, 08 Jul 2026 19:28:32 +0000</pubDate>
       <sparkle:version>1783536327</sparkle:version>
