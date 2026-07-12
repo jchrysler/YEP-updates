@@ -7,6 +7,27 @@
     <description>Signed YEP app updates.</description>
     <language>en</language>
     <item>
+      <title>Version 0.1.92 - Zoomable Holler canvas and image annotation</title>
+      <pubDate>Sun, 12 Jul 2026 14:33:27 +0000</pubDate>
+      <sparkle:version>1783866316</sparkle:version>
+      <sparkle:shortVersionString>0.1.92</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.2</sparkle:minimumSystemVersion>
+      <enclosure
+          url="https://github.com/jchrysler/YEP-updates/releases/download/v0.1.92/YEP.dmg"
+          length="24816839"
+          type="application/x-apple-diskimage"
+          sparkle:edSignature="3F1PB5DgZfFN5wNMSv0GtdVJ9BoIR+7Bmrq2F2+ReG3MrMbSOa9XK5ElR1BAMUzvu5E7bKFTUbKufZ4F7Mo6Bw==" />
+      <description><![CDATA[
+        <h3>Zoom, import, and save with Holler.</h3>
+        <ul>
+          <li>New captures open fitted to the window, with a zoom slider, trackpad pinch, Fit, and keyboard zoom controls.</li>
+          <li>Open or drag in PNG, JPEG, HEIC, TIFF, BMP, and GIF images to annotate them with the same Holler workflow.</li>
+          <li>Save an annotated PNG anywhere on your Mac, in addition to copying the image or agent-ready Markdown.</li>
+          <li>Export resolution and annotation coordinates stay stable at every editing zoom level.</li>
+        </ul>
+      ]]></description>
+    </item>
+    <item>
       <title>Version 0.1.91 - Meet Holler: visual feedback for teammates and coding agents</title>
       <pubDate>Sun, 12 Jul 2026 01:45:38 +0000</pubDate>
       <sparkle:version>1783816416</sparkle:version>
