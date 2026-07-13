@@ -7,6 +7,27 @@
     <description>Signed YEP app updates.</description>
     <language>en</language>
     <item>
+      <title>Version 0.1.95 - Onboarding reboot and capture fixes</title>
+      <pubDate>Mon, 13 Jul 2026 23:36:22 +0000</pubDate>
+      <sparkle:version>1783984083</sparkle:version>
+      <sparkle:shortVersionString>0.1.95</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.2</sparkle:minimumSystemVersion>
+      <enclosure
+          url="https://github.com/jchrysler/YEP-updates/releases/download/v0.1.95/YEP.dmg"
+          length="24851933"
+          type="application/x-apple-diskimage"
+          sparkle:edSignature="7ywYqrYVN9PQWYWmRiyiWPTAwnds4rNStaDKMPL4BgC5mXl4tuNJOCeAHE2C3ZjQneo+Ury9cN9wOo+aZ8JPAQ==" />
+      <description><![CDATA[
+        <h3>Smoother start, steadier capture.</h3>
+        <ul>
+          <li>Redesigned welcome flow: live speech-model download progress right in the practice step, clearer permission guidance, and a proper introduction to Holler.</li>
+          <li>Fixed a stuck screen-selection overlay that could swallow keyboard and mouse input until a reboot. Esc now always exits capture, no matter what.</li>
+          <li>Fixed dictation occasionally repeating text from a previous recording session, with new safeguards so contaminated cleanup can never reach a paste.</li>
+          <li>Corrected the speech model size shown in Settings (~600 MB, not 6 GB).</li>
+        </ul>
+      ]]></description>
+    </item>
+    <item>
       <title>Version 0.1.94 - Open images from Finder</title>
       <pubDate>Sun, 12 Jul 2026 18:46:54 +0000</pubDate>
       <sparkle:version>1783881686</sparkle:version>
