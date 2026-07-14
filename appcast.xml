@@ -7,6 +7,25 @@
     <description>Signed YEP app updates.</description>
     <language>en</language>
     <item>
+      <title>Version 0.1.96 - Holler viewport centering fix</title>
+      <pubDate>Tue, 14 Jul 2026 02:08:04 +0000</pubDate>
+      <sparkle:version>1783994461</sparkle:version>
+      <sparkle:shortVersionString>0.1.96</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.2</sparkle:minimumSystemVersion>
+      <enclosure
+          url="https://github.com/jchrysler/YEP-updates/releases/download/v0.1.96/YEP.dmg"
+          length="24852759"
+          type="application/x-apple-diskimage"
+          sparkle:edSignature="mbLCcG+mYAIhmbtHFYTxhp3FvEfK22ZptfN/upEY4dg5GNtjH1ZFOHaAFbG2nUmJvnA4fej8M+ntAAWQrjfkDw==" />
+      <description><![CDATA[
+        <h3>Holler opens in the right place.</h3>
+        <ul>
+          <li>Captures that fit at 100% now open centered in the Holler viewport instead of sitting against a workspace edge.</li>
+          <li>The Fit control also centers the capture when no zoom change is needed.</li>
+        </ul>
+      ]]></description>
+    </item>
+    <item>
       <title>Version 0.1.95 - Onboarding reboot and capture fixes</title>
       <pubDate>Mon, 13 Jul 2026 23:36:22 +0000</pubDate>
       <sparkle:version>1783984083</sparkle:version>
