@@ -7,6 +7,25 @@
     <description>Signed YEP app updates.</description>
     <language>en</language>
     <item>
+      <title>Version 0.1.97 - Close windows with Cmd+W</title>
+      <pubDate>Tue, 14 Jul 2026 02:33:46 +0000</pubDate>
+      <sparkle:version>1783995922</sparkle:version>
+      <sparkle:shortVersionString>0.1.97</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.2</sparkle:minimumSystemVersion>
+      <enclosure
+          url="https://github.com/jchrysler/YEP-updates/releases/download/v0.1.97/YEP.dmg"
+          length="24852916"
+          type="application/x-apple-diskimage"
+          sparkle:edSignature="mlH/rYBLqrY2l5AZTAIVioJTjZ0cIr5qRslU0OonX3KpQ/X+YFvmOiZ6I6pCaI4XJT0RNTXwjK3VKjihkTz8Ag==" />
+      <description><![CDATA[
+        <h3>Close the window like a Mac app.</h3>
+        <ul>
+          <li>Cmd+W now closes the active YEP window across History, Settings, onboarding, and Holler.</li>
+          <li>Holler still warns before closing when annotations have not been saved or copied.</li>
+        </ul>
+      ]]></description>
+    </item>
+    <item>
       <title>Version 0.1.96 - Holler viewport centering fix</title>
       <pubDate>Tue, 14 Jul 2026 02:08:04 +0000</pubDate>
       <sparkle:version>1783994461</sparkle:version>
