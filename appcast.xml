@@ -7,6 +7,25 @@
     <description>Signed YEP app updates.</description>
     <language>en</language>
     <item>
+      <title>Version 0.1.98 - Dictation reliability improvements</title>
+      <pubDate>Tue, 14 Jul 2026 14:09:15 +0000</pubDate>
+      <sparkle:version>1784037578</sparkle:version>
+      <sparkle:shortVersionString>0.1.98</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.2</sparkle:minimumSystemVersion>
+      <enclosure
+          url="https://github.com/jchrysler/YEP-updates/releases/download/v0.1.98/YEP.dmg"
+          length="24859440"
+          type="application/x-apple-diskimage"
+          sparkle:edSignature="vG0Yj9PnXByRzTtNG93/zpaId1YBiUAM8N62vZdshLgMWc7HRxH4njLS0kEdXoZd0ou+q1eYN94hT+fffSGbAg==" />
+      <description><![CDATA[
+        <h3>Smoother, more reliable dictation.</h3>
+        <ul>
+          <li>Improved audio handling around short and quiet captures.</li>
+          <li>Expanded local diagnostics for easier troubleshooting.</li>
+        </ul>
+      ]]></description>
+    </item>
+    <item>
       <title>Version 0.1.97 - Close windows with Cmd+W</title>
       <pubDate>Tue, 14 Jul 2026 02:33:46 +0000</pubDate>
       <sparkle:version>1783995922</sparkle:version>
