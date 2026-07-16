@@ -7,6 +7,26 @@
     <description>Signed YEP app updates.</description>
     <language>en</language>
     <item>
+      <title>Version 0.2.00 - Scrolling capture, now with live feedback</title>
+      <pubDate>Thu, 16 Jul 2026 17:52:48 +0000</pubDate>
+      <sparkle:version>1784224061</sparkle:version>
+      <sparkle:shortVersionString>0.2.00</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.2</sparkle:minimumSystemVersion>
+      <enclosure
+          url="https://github.com/jchrysler/YEP-updates/releases/download/v0.2.00/YEP.dmg"
+          length="24892193"
+          type="application/x-apple-diskimage"
+          sparkle:edSignature="+u9vZ+y/WmSFOmybSqQhvlLM8+yHnbzCBH+yvv7hGMxxCd6v/oLl3i3ZFnKcm6apjFpoydrW+KQPsNCtXt67BQ==" />
+      <description><![CDATA[
+        <h3>See exactly what you're capturing.</h3>
+        <ul>
+          <li>Scrolling captures now show an animated purple frame around the capture area for the whole session — and it never appears in the final image.</li>
+          <li>The capture controls got a refresh, with a clear purple Done button.</li>
+          <li>Scrolling capture: press ⌘⇧9, tap 0, select an area, then scroll. Holler stitches everything into one tall image.</li>
+        </ul>
+      ]]></description>
+    </item>
+    <item>
       <title>Version 0.1.99 - Scrolling capture</title>
       <pubDate>Thu, 16 Jul 2026 17:22:31 +0000</pubDate>
       <sparkle:version>1784222243</sparkle:version>
