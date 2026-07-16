@@ -7,6 +7,26 @@
     <description>Signed YEP app updates.</description>
     <language>en</language>
     <item>
+      <title>Version 0.2.01 - Capture, then decide</title>
+      <pubDate>Thu, 16 Jul 2026 20:53:46 +0000</pubDate>
+      <sparkle:version>1784230442</sparkle:version>
+      <sparkle:shortVersionString>0.2.01</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.2</sparkle:minimumSystemVersion>
+      <enclosure
+          url="https://github.com/jchrysler/YEP-updates/releases/download/v0.2.01/YEP.dmg"
+          length="24904246"
+          type="application/x-apple-diskimage"
+          sparkle:edSignature="MNa8u5AtyMWVu0jVlQI3O/uDSfLOS5FW90b1wYxK1Vuj/3nYP4H05wyQ8AZmpPT7e7neWs1iyPC7zJACymbfBA==" />
+      <description><![CDATA[
+        <h3>Capture, then decide.</h3>
+        <ul>
+          <li>After any capture, a small card appears in the corner: Edit to annotate, Copy to re-copy, Close to move on. Your capture is already on the clipboard and saved to history either way.</li>
+          <li>Captures are now saved to history immediately — even ones you never open in the editor.</li>
+          <li>The scrolling-capture controls got a cleaner look that stays readable over any page.</li>
+        </ul>
+      ]]></description>
+    </item>
+    <item>
       <title>Version 0.2.00 - Scrolling capture, now with live feedback</title>
       <pubDate>Thu, 16 Jul 2026 17:52:48 +0000</pubDate>
       <sparkle:version>1784224061</sparkle:version>
