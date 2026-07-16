@@ -7,6 +7,26 @@
     <description>Signed YEP app updates.</description>
     <language>en</language>
     <item>
+      <title>Version 0.1.99 - Scrolling capture</title>
+      <pubDate>Thu, 16 Jul 2026 17:22:31 +0000</pubDate>
+      <sparkle:version>1784222243</sparkle:version>
+      <sparkle:shortVersionString>0.1.99</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.2</sparkle:minimumSystemVersion>
+      <enclosure
+          url="https://github.com/jchrysler/YEP-updates/releases/download/v0.1.99/YEP.dmg"
+          length="24894856"
+          type="application/x-apple-diskimage"
+          sparkle:edSignature="6LvLeIrPhfru7KurKjhuTvyKvtVdvDRfJdzTan5JIWRYYTjC0mI5+BJhR3b7thmeJxg0YPpz4TkzWudXkeobAQ==" />
+      <description><![CDATA[
+        <h3>Capture more than one screen can hold.</h3>
+        <ul>
+          <li>New scrolling capture: press ⌘⇧9, tap 0, select an area, then scroll — Holler stitches the frames into one tall image.</li>
+          <li>You control the scroll; Holler only stitches sections it can align confidently, and tells you when to adjust.</li>
+          <li>Finish with Done or ⌘⇧9; Esc cancels. Also available from the menu bar: Holler: Scrolling Capture.</li>
+        </ul>
+      ]]></description>
+    </item>
+    <item>
       <title>Version 0.1.98 - Dictation reliability improvements</title>
       <pubDate>Tue, 14 Jul 2026 14:09:15 +0000</pubDate>
       <sparkle:version>1784037578</sparkle:version>
