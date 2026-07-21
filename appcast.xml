@@ -7,6 +7,25 @@
     <description>Signed YEP app updates.</description>
     <language>en</language>
     <item>
+      <title>Version 0.2.02 - Workflow refinements</title>
+      <pubDate>Tue, 21 Jul 2026 20:19:20 +0000</pubDate>
+      <sparkle:version>1784664792</sparkle:version>
+      <sparkle:shortVersionString>0.2.02</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.2</sparkle:minimumSystemVersion>
+      <enclosure
+          url="https://github.com/jchrysler/YEP-updates/releases/download/v0.2.02/YEP.dmg"
+          length="24903436"
+          type="application/x-apple-diskimage"
+          sparkle:edSignature="5lI1rO2BVGPqLiY6jGJgvwYKqeZ5QUCse1ffZ0tfxIO31XSbfPt7Y2FK4VBMHYloirVDNk25tSsQk8IqgcbOCQ==" />
+      <description><![CDATA[
+        <h3>Small improvements across YEP.</h3>
+        <ul>
+          <li>Improved continuity between successive dictations.</li>
+          <li>Streamlined the quick-copy workflow after a Holler capture.</li>
+        </ul>
+      ]]></description>
+    </item>
+    <item>
       <title>Version 0.2.01 - Capture, then decide</title>
       <pubDate>Thu, 16 Jul 2026 20:53:46 +0000</pubDate>
       <sparkle:version>1784230442</sparkle:version>
