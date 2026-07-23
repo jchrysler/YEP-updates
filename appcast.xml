@@ -7,6 +7,26 @@
     <description>Signed YEP app updates.</description>
     <language>en</language>
     <item>
+      <title>Version 0.2.04 - Dictation and capture refinements</title>
+      <pubDate>Thu, 23 Jul 2026 15:08:44 +0000</pubDate>
+      <sparkle:version>1784818326</sparkle:version>
+      <sparkle:shortVersionString>0.2.04</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.2</sparkle:minimumSystemVersion>
+      <enclosure
+          url="https://github.com/jchrysler/YEP-updates/releases/download/v0.2.04/YEP.dmg"
+          length="24972781"
+          type="application/x-apple-diskimage"
+          sparkle:edSignature="9GP7jlIY+Xp4ChmM/Mf9OGJ0tTVKQVmA/ffg/sii/Uliu0lWBkl73KaCbcdE/cpafiZHnwsLwdbyvpIXzbmjAA==" />
+      <description><![CDATA[
+        <h3>Faster, steadier dictation.</h3>
+        <ul>
+          <li>Improved dictation reliability, number handling, and structured speech.</li>
+          <li>Refined keyboard behavior between successive dictations.</li>
+          <li>Improved scrolling capture alignment and selection guidance.</li>
+        </ul>
+      ]]></description>
+    </item>
+    <item>
       <title>Version 0.2.02 - Workflow refinements</title>
       <pubDate>Tue, 21 Jul 2026 20:19:20 +0000</pubDate>
       <sparkle:version>1784664792</sparkle:version>
