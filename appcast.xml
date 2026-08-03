@@ -7,6 +7,24 @@
     <description>Signed YEP app updates.</description>
     <language>en</language>
     <item>
+      <title>Version 0.2.08 - Reliability improvements</title>
+      <pubDate>Mon, 03 Aug 2026 13:32:35 +0000</pubDate>
+      <sparkle:version>1785601664</sparkle:version>
+      <sparkle:shortVersionString>0.2.08</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.2</sparkle:minimumSystemVersion>
+      <enclosure
+          url="https://github.com/jchrysler/YEP-updates/releases/download/v0.2.08/YEP.dmg"
+          length="25011250"
+          type="application/x-apple-diskimage"
+          sparkle:edSignature="TRK8WXX5aB6OfXTE7qpu7V68zFZpyr4VeF4r8TQF4QJyhXC+C3bRIB5xP7+oMjZQAY7yWfKYq/E9NEECsSI7Cg==" />
+      <description><![CDATA[
+        <h3>Reliability improvements across YEP.</h3>
+        <ul>
+          <li>Improved stability and recovery across dictation workflows.</li>
+        </ul>
+      ]]></description>
+    </item>
+    <item>
       <title>Version 0.2.06 - Reliability improvements</title>
       <pubDate>Mon, 27 Jul 2026 20:18:15 +0000</pubDate>
       <sparkle:version>1785183163</sparkle:version>
