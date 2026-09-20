@@ -7,6 +7,28 @@
     <description>Signed YEP app updates.</description>
     <language>en</language>
     <item>
+      <title>Version 0.2.12 - Holler capture and editing improvements</title>
+      <pubDate>Sun, 20 Sep 2026 19:36:44 +0000</pubDate>
+      <sparkle:version>1789413009</sparkle:version>
+      <sparkle:shortVersionString>0.2.12</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.2</sparkle:minimumSystemVersion>
+      <enclosure
+          url="https://github.com/jchrysler/YEP-updates/releases/download/v0.2.12/YEP.dmg"
+          length="18203028"
+          type="application/x-apple-diskimage"
+          sparkle:edSignature="aNa2XF2IcphAO7hs9P0P8+E94TKvipDvqJNOUPtIjzukwQ/RA0klnbu5Uf+Mz9QI6ZCM8zbN3pmYfJ2FfOQwBQ==" />
+      <description><![CDATA[
+        <ul>
+          <li>Keep multiple capture previews visible and swipe left to dismiss a preview.</li>
+          <li>Open captures at their original on-screen size and scroll to annotate long pages.</li>
+          <li>Highlight text with rounded strokes, four colors, and adjustable thickness.</li>
+          <li>Use a compact toolbar with Select, Highlight, Comment, Blur, and Hide.</li>
+          <li>Keep the original box-and-comment workflow and Copy for Agent.</li>
+          <li>Combine images on the canvas and export as PNG or PDF.</li>
+        </ul>
+      ]]></description>
+    </item>
+    <item>
       <title>Version 0.2.09 - Reliability improvements</title>
       <pubDate>Tue, 04 Aug 2026 01:26:06 +0000</pubDate>
       <sparkle:version>1785806248</sparkle:version>
