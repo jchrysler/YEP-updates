@@ -7,6 +7,15 @@
     <description>Signed YEP app updates.</description>
     <language>en</language>
     <item>
+      <title>Version 0.2.13 - Dictation context fix</title>
+      <pubDate>Wed, 30 Sep 2026 21:47:27 GMT</pubDate>
+      <sparkle:version>1790804672</sparkle:version>
+      <sparkle:shortVersionString>0.2.13</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.2</sparkle:minimumSystemVersion>
+      <enclosure url="https://github.com/jchrysler/YEP-updates/releases/download/v0.2.13/YEP.dmg" length="18309074" type="application/x-apple-diskimage" sparkle:edSignature="sHv9kAee/pR9/9oiYJyYzzQwGKFPBl/PyCMCGp8XD5XqfHP6KXwBTjnku5X4ZXCUes6oK+qhrGR1jFy5TNmVAA==" />
+      <description><![CDATA[<ul><li>Prevent existing editor text from entering AI cleanup, closing a path for repeated pre-typed text.</li><li>Add explicit microphone selection. YEP defaults to the built-in Mac microphone; choose another input in Settings.</li><li>Include capture editor fixes, annotation contrast and controls, settings help, and numeric formatting improvements.</li></ul>]]></description>
+    </item>
+    <item>
       <title>Version 0.2.12 - Holler capture and editing improvements</title>
       <pubDate>Sun, 20 Sep 2026 19:36:44 +0000</pubDate>
       <sparkle:version>1789413009</sparkle:version>
