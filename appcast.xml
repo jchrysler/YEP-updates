@@ -7,6 +7,15 @@
     <description>Signed YEP app updates.</description>
     <language>en</language>
     <item>
+      <title>Version 0.2.14 - Microphone reliability</title>
+      <pubDate>Fri, 16 Oct 2026 18:07:01 GMT</pubDate>
+      <sparkle:version>1792173492</sparkle:version>
+      <sparkle:shortVersionString>0.2.14</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.2</sparkle:minimumSystemVersion>
+      <enclosure url="https://github.com/jchrysler/YEP-updates/releases/download/v0.2.14/YEP.dmg" length="18555816" type="application/x-apple-diskimage" sparkle:edSignature="cm4GOPa6wvKlUoZ1Jwgt6i3bQYL2uFn9AmIzwPb9a4ruGOfi0ITPoqUJkquCZdHpNjYHUVJdH148r1+G2F4hAw==" />
+      <description><![CDATA[<ul><li>Fix microphone sessions that stopped receiving audio after macOS setup notifications.</li><li>Report interrupted recordings that received no audio. Recovery stays limited to an active recording on the selected microphone.</li><li>Keep capture Save dialogs attached and reject duplicate Save requests.</li><li>Add manual Camera Mirror in the YEP menu. It stays off until opened.</li><li>Include optional experimental typing correction, off by default.</li></ul>]]></description>
+    </item>
+    <item>
       <title>Version 0.2.13 - Dictation context fix</title>
       <pubDate>Wed, 30 Sep 2026 21:47:27 GMT</pubDate>
       <sparkle:version>1790804672</sparkle:version>
