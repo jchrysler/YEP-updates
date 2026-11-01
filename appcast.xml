@@ -7,6 +7,15 @@
     <description>Signed YEP app updates.</description>
     <language>en</language>
     <item>
+      <title>Version 0.2.15 - Microphone test and recovery</title>
+      <pubDate>Sun, 01 Nov 2026 01:06:04 GMT</pubDate>
+      <sparkle:version>1793394629</sparkle:version>
+      <sparkle:shortVersionString>0.2.15</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.2</sparkle:minimumSystemVersion>
+      <enclosure url="https://github.com/jchrysler/YEP-updates/releases/download/v0.2.15/YEP.dmg" length="18605521" type="application/x-apple-diskimage" sparkle:edSignature="JWPyIfJAm+Z0Uayjz1XFS1tRcBXbBaftRCKVvmvRSuAwwnWs47II5fBEYDKgf1fFm4Ov6XHUD2JcYF+zQR4ECA==" />
+      <description><![CDATA[<ul><li>Show the selected microphone and a sound meter during tests or dictation.</li><li>Add Test and repair microphone in Settings. Reconnect YEP's audio engine and check sound for four seconds without transcribing or inserting test audio.</li><li>Distinguish missing audio, silence, changed connections, and detected sound.</li><li>Copy microphone diagnostics with version, input, test result, and recent events. Transcript text is excluded.</li></ul>]]></description>
+    </item>
+    <item>
       <title>Version 0.2.14 - Microphone reliability</title>
       <pubDate>Fri, 16 Oct 2026 18:07:01 GMT</pubDate>
       <sparkle:version>1792173492</sparkle:version>
